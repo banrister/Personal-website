@@ -1,0 +1,35 @@
+
+title {
+	display: none;
+}
+
+h1 {
+	color: black;
+}
+
+.page-header {
+	font-size: 30px;
+	text-align: center;
+	padding: 5px, 5px, 5px, 5px;
+}
+.jumbotron {
+	background-color: rgba(116, 5, 5, 1);
+	text-align: center;
+	vertical-align: center;
+	max-height: 400px;
+}
+.jumbotron h2 {
+	font-size: 30px;
+	text-align: left;
+	vertical-align: center;
+	color: white;
+}
+.jumbotron small {
+	color: white;
+	font-size: 15px;
+}
+
+body {
+	background-color: white;
+}
+
